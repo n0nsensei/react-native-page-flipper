@@ -1,6 +1,6 @@
 {
     "name": "react-native-page-flipper",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Page Flipper",
     "main": "lib/commonjs/index",
     "types": "lib/typescript/index.d.ts",
@@ -27,13 +27,13 @@
         "flipper",
         "page-flipper"
     ],
-    "repository": "https://github.com/chris24elias/react-native-page-flipper",
-    "author": "Chris (https://github.com/chris24elias)",
+    "repository": "https://github.com/drcodemonster/react-native-page-flipper",
+    "author": "Chris (https://github.com/drcodemonster)",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/chris24elias/react-native-page-flipper/issues"
+        "url": "https://github.com/drcodemonster/react-native-page-flipper/issues"
     },
-    "homepage": "https://github.com/chris24elias/react-native-page-flipper#readme",
+    "homepage": "https://github.com/drcodemonster/react-native-page-flipper#readme",
     "publishConfig": {
         "registry": "https://registry.npmjs.org/"
     },
@@ -55,7 +55,6 @@
         "react-native": "0.68.2",
         "react-native-builder-bob": "^0.18.1",
         "react-native-gesture-handler": "~2.2.1",
-        "react-native-linear-gradient": "^2.6.2",
         "react-native-reanimated": "~2.8.0",
         "typescript": "^4.0.8"
     },
@@ -64,7 +63,6 @@
         "react": ">=16.8.0",
         "react-native": ">=0.6.0",
         "react-native-gesture-handler": "*",
-        "react-native-linear-gradient": "^2.5.6",
         "react-native-reanimated": ">=2.7.0"
     },
     "react-native-builder-bob": {

@@ -190,9 +190,9 @@ const BookPage = React.forwardRef<BookPageInstance, IBookPageProps>(
             };
 
             if (right) {
-                style['left'] = 0;
+                style.left = 0;
             } else {
-                style['right'] = 0;
+                style.right = 0;
             }
 
             return style;

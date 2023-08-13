@@ -352,7 +352,7 @@ const IPage: React.FC<IPageProps> = ({
         };
 
         if (!right) {
-            style['left'] = 0;
+            style.left = 0;
         } else {
             // style['right'] = 0;
         }
